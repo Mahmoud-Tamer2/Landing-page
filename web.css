@@ -7,3 +7,8 @@ img {
 /* .row {
   display: grid;
 } */
+
+.bg-black {
+  width: fit-content;
+  border-radius: 5px;
+}
