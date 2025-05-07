@@ -12,3 +12,8 @@ img {
   width: fit-content;
   border-radius: 5px;
 }
+.text-info {
+  width: fit-content;
+  padding: 10px;
+  border-radius: 5px;
+}
